@@ -12,6 +12,7 @@ Lastly, the Gym Leader information was a result of web-scrapping from Bulbapedia
 
 ## Core Concepts
 Core concepts included in this project include:
+- Python, HTML
 - server-side _and_ client-side web development
 - web-scrapping
 - API accessing
