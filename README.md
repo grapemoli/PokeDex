@@ -1,7 +1,7 @@
 # PokeDex
 This web-application version of the PokeDex is one of my first projects! 
 
-[Click here](http://grakamoli.pythonanywhere.com/pokeMain)
+[Click here to see the project](http://grakamoli.pythonanywhere.com/pokeMain)
 
 ## Summary
 This web application web-scraped off of Bulbapedia, and took information provided by the PokeAPI to create a multiple tables in SQLite. Using Bottle, a Python framework, I created a comprehensive encyclopedia of all Pokemon regions, pokemons, and gym leaders.
